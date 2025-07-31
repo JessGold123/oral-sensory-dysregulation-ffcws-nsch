@@ -19,6 +19,7 @@ Children with autism often show heightened reactivity to taste, texture, and oth
 1. **Aim 1a:** Examine whether oral sensory reactivity during early feeding predicts observable emotion dysregulation at age 9.  
 2. **Aim 1b:** Test whether parenting behaviors (e.g., harsh discipline, responsiveness) moderate this association.  
 3. **Aim 2:** Evaluate whether the strength or direction of these pathways differs between children with and without an autism diagnosis.
+4. **Aim 3:** Exploratory analyses of potential moderators, including age of NSCH sample and within autistic group variations in diagnosis severity, treatment status, or age of diagnosis.
 
 ## Files
 
@@ -38,6 +39,13 @@ The `/analysis/` folder contains separate R scripts for each dataset used in thi
 
 Each script is structured to run independently but follows the logic outlined in the pre-analysis plan.
 > **Note (July 31, 2025):** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
+
+
+## Updates
+
+- **July 31, 2025:** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
+- **August 1, 2025:** Updated proposal uploaded (v2.0). Main NSCH analysis now restricted to ages 6–11 (T2) to reduce behavioral masking and better match FFCWS age profile. Exploratory analysis for adolescents (12–17; T3) added.
+
 
 ## Authorship
 

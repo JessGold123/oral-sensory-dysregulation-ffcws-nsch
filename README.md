@@ -33,6 +33,7 @@ The `/analysis/` folder contains separate R scripts for each dataset used in thi
 - `nsch_analysis.R` – Parallel pipeline for the National Survey of Children’s Health (NSCH) 2023 dataset.
 
 Each script is structured to run independently but follows the logic outlined in the pre-analysis plan.
+> **Note (July 31, 2025):** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
 
 ## Authorship
 

@@ -4,7 +4,7 @@ This repository contains a pre-analysis plan for a secondary data project examin
 
 ## Project Overview
 
-Children with autism often show heightened reactivity to taste, texture, and other oral sensations. This sensory reactivity may contribute not only to selective eating, but also to broader emotion regulation difficulties. This project explores how early oral sensory behaviors, particularly during feeding, predict later emotion dysregulation, and whether this pathway is moderated by parenting behaviors and ASD diagnosis.
+Children with autism often show heightened reactivity to taste, texture, and other oral sensations. In addition to selective eating, this sensory reactivity may contribute to broader emotion regulation difficulties. The current project explores how early oral sensory behaviors predict later emotion dysregulation, and whether this pathway is moderated by parenting behaviors and ASD diagnosis.
 
 ## Data Sources
 

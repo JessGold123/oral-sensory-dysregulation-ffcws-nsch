@@ -36,7 +36,8 @@ The `/analysis/` folder contains separate R scripts for each dataset used in thi
 
 Each script is structured to run independently but follows the logic outlined in the pre-analysis plan.
 > **Note (July 31, 2025):** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
-> **Note (August 1, 2025:** Uploaded `OralSensoryPathways_Proposal_v2_August2025.docx`, which restricts NSCH sample to children aged 6–11 years (FORMTYPE T2) to reduce masking effects and enhance behavioral alignment with FFCWS outcomes. Adds exploratory analysis for adolescents (12–17 years, FORMTYPE T3).
+
+> **Note (August 1, 2025):** Uploaded `OralSensoryPathways_Proposal_v2_August2025.docx`, which restricts NSCH sample to children aged 6–11 years (FORMTYPE T2) to reduce masking effects and enhance behavioral alignment with FFCWS outcomes. Adds exploratory analysis for adolescents (12–17 years, FORMTYPE T3).
 
 ## Authorship
 

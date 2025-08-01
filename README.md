@@ -46,6 +46,7 @@ Each script is structured to run independently but follows the logic outlined in
 ## Authorship
 
 This project was developed by **Jess Goldschlager**, B.S., during their time as a Postbaccalaureate IRTA Fellow in the **Section on Sensory Science and Metabolism (SenSMet)** at the **National Institute on Alcohol Abuse and Alcoholism (NIAAA)**, NIH.  
+
 Mentorship was provided by **Dr. Paule Joseph**.
 
 ## License

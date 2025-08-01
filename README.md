@@ -21,14 +21,17 @@ Children with autism often show heightened reactivity to taste, texture, and oth
 3. **Aim 2:** Evaluate whether the strength or direction of these pathways differs between children with and without an autism diagnosis.
 4. **Aim 3:** Exploratory analyses of potential moderators, including age of NSCH sample and within autistic group variations in diagnosis severity, treatment status, or age of diagnosis.
 
-## Files
+## Proposal Version History
+- **August 1, 2025 — v3.0:**  
+  Updated proposal uploaded. After gaining deeper familiarity with the NSCH variables (prior to conducting analyses), the scope of feeding behavior was refined to focus specifically on **picky eating**. The measure of *interest in food* was excluded, as it may be influenced by multiple factors unrelated to sensory pathways. Additionally, **tooth pain** and **digestive problems** were added as part of planned sensitivity analyses.
 
-- `OralSensoryPathways_Proposal_July_2025ASD.docx`  
-  Original pre-analysis plan including background, aims, variable selection, and analytic strategy.
+- **July 2025 — v2.0:**  
+  Main NSCH analysis now restricted to ages 6–11 (T2) to reduce behavioral masking and better match FFCWS age profile. Exploratory analysis for adolescents (12–17; T3) added.
 
-- `OralSensoryPathways_Proposal_August_2025ASD.docx`  
-  **Updated plan (v2.0):** Restricts NSCH sample to children aged 6–11 (FORMTYPE T2) to reduce masking effects and align with FFCWS outcomes. Includes exploratory analysis for adolescents (12–17; FORMTYPE T3).
+- **June 2025 — v1.0:**  
+  Initial project proposal focusing on oral sensory pathways and emotion dysregulation.
 
+Archived proposals are available in the [`archive/`](https://github.com/JessGold123/oral-sensory-dysregulation-ffcws-nsch/tree/main/archive) folder for transparency.
 
 ## Analysis Scripts
 
@@ -39,13 +42,6 @@ The `/analysis/` folder contains separate R scripts for each dataset used in thi
 
 Each script is structured to run independently but follows the logic outlined in the pre-analysis plan.
 > **Note (July 31, 2025):** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
-
-
-## Updates
-
-- **July 31, 2025:** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
-- **August 1, 2025:** Updated proposal uploaded (v2.0). Main NSCH analysis now restricted to ages 6–11 (T2) to reduce behavioral masking and better match FFCWS age profile. Exploratory analysis for adolescents (12–17; T3) added.
-- **August 1, 2025:** Updated proposal uploaded (v3.0). After gaining deeper familiarity with the NSCH variables (prior to conducting analyses), the scope of feeding behavior was refined to focus specifically on picky eating. The measure of interest in food was excluded, as it may be influenced by multiple factors unrelated to sensory pathways. Additionally, tooth pain and digestive problems were added as part of planned sensitivity analyses.
 
 ## Authorship
 

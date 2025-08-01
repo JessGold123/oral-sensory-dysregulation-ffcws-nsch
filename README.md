@@ -45,7 +45,7 @@ Each script is structured to run independently but follows the logic outlined in
 
 - **July 31, 2025:** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
 - **August 1, 2025:** Updated proposal uploaded (v2.0). Main NSCH analysis now restricted to ages 6–11 (T2) to reduce behavioral masking and better match FFCWS age profile. Exploratory analysis for adolescents (12–17; T3) added.
-
+- **August 1, 2025:** Updated proposal uploaded (v3.0). After gaining deeper familiarity with the NSCH variables (prior to conducting analyses), the scope of feeding behavior was refined to focus specifically on picky eating. The measure of interest in food was excluded, as it may be influenced by multiple factors unrelated to sensory pathways. Additionally, tooth pain and digestive problems were added as part of planned sensitivity analyses.
 
 ## Authorship
 

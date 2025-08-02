@@ -23,7 +23,7 @@ Children with autism often show heightened reactivity to taste, texture, and oth
 
 ## Proposal Version History
 - **August 1, 2025 — v3.0:**  
-  Updated proposal uploaded. After gaining deeper familiarity with the NSCH variables (prior to conducting analyses), the scope of feeding behavior was refined to focus specifically on **picky eating**. The measure of *interest in food* was excluded, as it may be influenced by multiple factors unrelated to sensory pathways. Additionally, **tooth pain** and **digestive problems** were added as part of planned sensitivity analyses.
+  Updated proposal uploaded. **Tooth pain** and **digestive problems** were added as part of planned sensitivity analyses.
 
 - **July 2025 — v2.0:**  
   Main NSCH analysis now restricted to ages 6–11 (T2) to reduce behavioral masking and better match FFCWS age profile. Exploratory analysis for adolescents (12–17; T3) added.

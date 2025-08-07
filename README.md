@@ -1,44 +1,42 @@
-# Oral Sensory Pathways and Emotion Dysregulation in Children
+# Picky Eating and Emotion Dysregulation in Children
 
-This repository contains a pre-analysis plan for a secondary data project examining the relationship between oral sensory behaviors and observable emotion dysregulation in children, with and without autism spectrum disorder (ASD). The project uses data from the **Fragile Families and Child Wellbeing Study (FFCWS)** and the **National Survey of Children’s Health (NSCH)**.
+This repository contains a pre-analysis plan and supporting materials for a secondary data project examining the relationship between feeding behaviors, specifically **picky eating** and **low interest in food**, and **emotion dysregulation** in children with and without autism spectrum disorder (ASD). The project uses data from the **2023 National Survey of Children’s Health (NSCH)**.
 
 ## Project Overview
 
-Children with autism often show heightened reactivity to taste, texture, and other oral sensations. In addition to selective eating, this sensory reactivity may contribute to broader emotion regulation difficulties. The current project explores how early oral sensory behaviors predict later emotion dysregulation, and whether this pathway is moderated by parenting behaviors and ASD diagnosis.
+This project investigates how feeding behaviors relate to parent-reported emotion dysregulation in children aged 6–11 years. We examine:
+- Whether associations differ by **neurodevelopmental status** (autistic vs. non-autistic children)
+- Whether relationships are moderated by **autism severity**, **treatment status**, or **age of diagnosis** within the ASD subgroup
 
-## Data Sources
-
-- **FFCWS (Waves 3, 5, and 9)**  
-  Used to track early feeding reactivity, parenting behaviors, and later emotion dysregulation in a large, diverse U.S. sample.
-  
-- **NSCH (2023)**  
-  Used to replicate key associations and test moderation by ASD diagnosis.
+Findings from this project are intended to clarify whether surface feeding behaviors reflect common emotional vulnerabilities or diverge across neurodevelopmental contexts.
 
 ## Aims
 
-1. **Aim 1a:** Examine whether oral sensory reactivity during early feeding predicts observable emotion dysregulation at age 9.  
-2. **Aim 1b:** Test whether parenting behaviors (e.g., harsh discipline, responsiveness) moderate this association.  
-3. **Aim 2:** Evaluate whether the strength or direction of these pathways differs between children with and without an autism diagnosis.
-4. **Aim 3:** Exploratory analyses of potential moderators, including age of NSCH sample and within autistic group variations in diagnosis severity, treatment status, or age of diagnosis.
+1. **Aim 1:** Examine whether picky eating and low interest in food are associated with emotion dysregulation in children with and without autism.  
+2. **Aim 2:** Within the ASD subgroup, test whether autism severity, treatment status, or age of diagnosis further shapes these pathways.
+
+## Dataset
+- **Source:** 2023 National Survey of Children’s Health (NSCH)
+- **Sample:** Children aged **6–11 years**
+- **Rationale:** Age restriction reduces the influence of adolescent behavioral masking and aligns more closely with the age range targeted in the original FFCWS plan
 
 ## Proposal Version History
+- **August 2025 — v3.0:**  
+  Original plan included both NSCH and the *Fragile Families and Child Wellbeing Study (FFCWS)* to examine developmental pathways. Due to restricted FFCWS access and limited   time, the project has been narrowed to focus solely on NSCH data.  
+  
 - **July 2025 — v2.0:**  
-  Main NSCH analysis now restricted to ages 6–11 (T2) to reduce behavioral masking and better match FFCWS age profile. Exploratory analysis for adolescents (12–17; T3) added.
+  Age restriction to 6–11 (FORMTYPE = T2) added to improve measurement validity and comparability across samples. Exploratory adolescent analysis (12–17; T3) proposed.
 
 - **June 2025 — v1.0:**  
-  Initial project proposal focusing on oral sensory pathways and emotion dysregulation.
+  Initial concept focused on oral sensory processing and its relationship to dysregulation. Reframed in later versions to emphasize feeding behavior over sensory traits.
 
 Archived proposals are available in the [`archive/`](https://github.com/JessGold123/oral-sensory-dysregulation-ffcws-nsch/tree/main/archive) folder for transparency.
 
 ## Analysis Scripts
 
-The `/analysis/` folder contains separate R scripts for each dataset used in this project:
+All analysis scripts are located in the `/analysis/` folder.
 
-- `ffcws_analysis.R` – Data cleaning, variable construction, and modeling for the Fragile Families and Child Wellbeing Study (FFCWS).
-- `nsch_analysis.R` – Parallel pipeline for the National Survey of Children’s Health (NSCH) 2023 dataset.
-
-Each script is structured to run independently but follows the logic outlined in the pre-analysis plan.
-> **Note (July 31, 2025):** Due to pending data access for FFCWS, analyses were initiated with NSCH. All models were specified a priori based on theory and outlined in the pre-analysis plan prior to examining either dataset.
+- `nsch_analysis.R` — Main statistical pipeline for the NSCH dataset (2023)
 
 ## Authorship
 

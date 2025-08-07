@@ -30,7 +30,7 @@ Findings from this project are intended to clarify whether surface feeding behav
 - **June 2025 — v1.0:**  
   Initial concept focused on oral sensory processing and its relationship to dysregulation. Reframed in later versions to emphasize feeding behavior over sensory traits.
 
-Archived proposals are available in the [`archive/`](https://github.com/JessGold123/oral-sensory-dysregulation-ffcws-nsch/tree/main/archive) folder for transparency.
+Archived proposals are available in the [`archive/`](https://github.com/JessGold123/picky-eating-emotion-dysregulation-ffcws-nsch/tree/main/archive) folder for transparency.
 
 ## Analysis Scripts
 

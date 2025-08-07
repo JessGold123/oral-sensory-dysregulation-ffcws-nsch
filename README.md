@@ -22,9 +22,6 @@ Children with autism often show heightened reactivity to taste, texture, and oth
 4. **Aim 3:** Exploratory analyses of potential moderators, including age of NSCH sample and within autistic group variations in diagnosis severity, treatment status, or age of diagnosis.
 
 ## Proposal Version History
-- **August 1, 2025 — v3.0:**  
-  Updated proposal uploaded. **Tooth pain** and **digestive problems** were added as part of planned sensitivity analyses.
-
 - **July 2025 — v2.0:**  
   Main NSCH analysis now restricted to ages 6–11 (T2) to reduce behavioral masking and better match FFCWS age profile. Exploratory analysis for adolescents (12–17; T3) added.
 
